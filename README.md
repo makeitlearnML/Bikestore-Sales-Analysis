@@ -1,5 +1,5 @@
 # Bikestore-Sales-Analysis
-Based on available sales data having details of Orders, customer demographics & Product Category company wants to analyze & answer few questions.
+Based on available sales data containing details of Orders, customer demographics & Product Category the company wants to analyze & find answers of few questions.
 
 -> Analyze the Revenue generated per each year
 
